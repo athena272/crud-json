@@ -78,6 +78,7 @@ export async function saveTransaction(ev) {
     //Reseta os campos
     document.querySelector("#id").value = null
     ev.target.reset()
+    //Atualiza o saldo total
     updateBalance()
 }
 
