@@ -12,13 +12,8 @@
     },
     {
       "name": "Conta de água",
-      "amount": -20,
-      "id": 3
-    },
-    {
-      "name": "Conta de Luz",
       "amount": -25,
-      "id": 4
+      "id": 3
     }
   ]
 }
