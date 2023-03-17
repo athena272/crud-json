@@ -17,7 +17,7 @@ E após isso, rodar o comando para buscar os dados no arquivo db.json e renderiz
 ```bash
 npm run json-server
 ```
-Abra o arquivo index.html em seu navegador para acessar a aplicação
+Abra o arquivo index.html em seu navegador para acessar a aplicação ou use a extensão liveServer no VSCode
 
 ## Tela Principal
 ![image](https://user-images.githubusercontent.com/58920070/225800588-5e206aec-2645-45bd-aef0-f33e026a9fa0.png)
