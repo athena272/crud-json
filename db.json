@@ -1,8 +1,8 @@
 {
   "transactions": [
     {
-      "name": "Freela",
-      "amount": 700,
+      "name": "Boleto",
+      "amount": -200,
       "id": 1
     },
     {
@@ -17,13 +17,8 @@
     },
     {
       "name": "Conta de Luz",
-      "amount": -20.8,
-      "id": 6
-    },
-    {
-      "name": "Docinhos",
-      "amount": -75,
-      "id": 7
+      "amount": -20.9,
+      "id": 4
     }
   ]
 }
