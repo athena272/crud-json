@@ -20,7 +20,7 @@ npm run json-server
 Abra o arquivo index.html em seu navegador para acessar a aplicação ou use a extensão liveServer no VSCode
 
 ## Tela Principal
-![image](https://user-images.githubusercontent.com/58920070/225800588-5e206aec-2645-45bd-aef0-f33e026a9fa0.png)
+![image](https://user-images.githubusercontent.com/58920070/225934287-eca3a1d4-f86e-4d78-a4bf-2e56b7521a90.png)
 
  ## db.json
 ![image](https://user-images.githubusercontent.com/58920070/225933786-e96e5ae7-6c40-4a86-9e60-2ef659ddfea2.png)
