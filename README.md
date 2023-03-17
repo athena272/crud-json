@@ -22,4 +22,5 @@ Abra o arquivo index.html em seu navegador para acessar a aplicação ou use a e
 ## Tela Principal
 ![image](https://user-images.githubusercontent.com/58920070/225800588-5e206aec-2645-45bd-aef0-f33e026a9fa0.png)
 
- 
+ ## db.json
+![image](https://user-images.githubusercontent.com/58920070/225933786-e96e5ae7-6c40-4a86-9e60-2ef659ddfea2.png)
