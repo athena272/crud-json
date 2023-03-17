@@ -34,10 +34,10 @@ function createTransactionAmount(amount) {
     // Adiciona o valor formatado ao elemento HTML e adiciona uma classe "credit" ou "debit" dependendo do sinal do valor
     if (amount > 0) {
         span.textContent = `${formatedAmount} C`
-        span.classList.add('credit')
+        span.classList.add('transaction-amount', 'credit')
     } else {
         span.textContent = `${formatedAmount} D`
-        span.classList.add('debit')
+        span.classList.add('transaction-amount', 'debit')
     }
 
     return span
